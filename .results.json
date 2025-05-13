@@ -5,9 +5,9 @@
     "passes": 0,
     "pending": 0,
     "failures": 1,
-    "start": "2025-05-13T16:37:40.977Z",
-    "end": "2025-05-13T16:37:56.270Z",
-    "duration": 15293
+    "start": "2025-05-13T16:39:39.158Z",
+    "end": "2025-05-13T16:40:03.829Z",
+    "duration": 24671
   },
   "tests": [],
   "pending": [],
@@ -15,7 +15,7 @@
     {
       "title": "\"before all\" hook",
       "fullTitle": "\"before all\" hook",
-      "duration": 15286,
+      "duration": 24665,
       "currentRetry": 0,
       "err": {
         "stack": "Error: Timeout of 5000ms exceeded. For async tests and hooks, ensure \"done()\" is called; if returning a Promise, ensure it resolves.\n    at Object.done (node_modules/mocha-jsdom/index.js:70:7)\n    at /mnt/c/Users/bblai/dev/javascript-scope-lab/node_modules/jsdom/lib/jsdom.js:312:18\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)",
